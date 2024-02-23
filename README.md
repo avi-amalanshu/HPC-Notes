@@ -112,7 +112,9 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/nvidia
     wandb.init( ...,  mode="offline")
 ```
 # GPU node IPs
-1. **gpu021** (bad dns): `172.10.0.121`
+1. **gpu021**: `172.10.0.121`
+2. **gpu013**: `172.10.0.113`
+3. **gpu006** `172.10.0.106`
 ---
 
 kinda incomplete i'll update it as i learn more :p
